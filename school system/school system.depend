@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1663878165 source:c:\users\hp\onedrive\desktop\ahmed 11\school system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<windows.h>
+
+1663878165 c:\users\hp\onedrive\desktop\ahmed 11\school system\system.h
+
+1663924654 source:c:\users\hp\onedrive\desktop\ahmed 11\school system\system.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+
+1663878189 source:c:\users\hp\onedrive\desktop\ahmed 11\school system\color.c
+
+1663857772 c:\users\hp\onedrive\desktop\ahmed 11\school system\ansi-color-codes.h
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<stdlib.h>
+	<conio.h>
+
+1665198349 source:c:\school system\color.c
+
+1665242464 source:c:\school system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<windows.h>
+
+1665206721 c:\school system\system.h
+
+1665238842 source:c:\school system\system.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<string.h>
+	"color.c"
+	<windows.h>
+	<MMsystem.h>
+
+1665198349 c:\school system\color.c
+
+1665194749 source:e:\diploma online\school system\color.c
+
+1665238864 source:e:\diploma online\school system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<windows.h>
+
+1702382236 e:\diploma online\school system\system.h
+
+1665235242 source:e:\diploma online\school system\system.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<string.h>
+	"color.c"
+	<windows.h>
+	<MMsystem.h>
+
+1665194749 e:\diploma online\school system\color.c
+
+1665198349 source:d:\diploma online\school system\color.c
+
+1665242464 source:d:\diploma online\school system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<windows.h>
+
+1702385836 d:\diploma online\school system\system.h
+
+1665238842 source:d:\diploma online\school system\system.c
+	<stdio.h>
+	<stdlib.h>
+	"system.h"
+	<conio.h>
+	<string.h>
+	"color.c"
+	<windows.h>
+	<MMsystem.h>
+
+1665198349 d:\diploma online\school system\color.c
+
